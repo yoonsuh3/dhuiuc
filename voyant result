@@ -1,0 +1,4 @@
+The data I used is Charles Chesnutt's novel from 1901, The Marrow of Tradition. 
+The result was different from wordcounter, as it did not pick up on the word "would." 
+Besides the names of characters, it picked up on words that indicate race, "child," and "time," which were interesting to me.   
+Here is the full result: https://voyant-tools.org/?corpus=4d4aee6a9f1fe269a2117b56d118d6f5
